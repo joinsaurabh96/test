@@ -15,6 +15,8 @@ visit localhost:4200
 
 ![image](https://user-images.githubusercontent.com/32493240/145869426-83224d43-03a4-4c87-9d1b-0488a9721ac5.png)
 
-Application displays the table with sorting and pagination capabilitie ..
+Application displays the table with sorting and pagination capabilities .. the data is coming from an 
+
+API Source :- https://jsonplaceholder.typicode.com/todos/
 
 THANKS :)
